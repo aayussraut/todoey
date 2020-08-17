@@ -1,0 +1,4 @@
+#Sun Aug 16 20:56:19 NPT 2020
+base.0=A\:\\practice\\flutter1\\todoey\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
